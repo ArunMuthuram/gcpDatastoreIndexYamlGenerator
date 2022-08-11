@@ -1,0 +1,22 @@
+{
+  "name": "gcpdatastoreindexyamlgenerator",
+  "version": "1.0.0",
+  "description": "Generated index.yaml file for GCP datastore",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunMuthuram/gcpDatastoreIndexYamlGenerator.git"
+  },
+  "keywords": [
+    "GCP",
+    "index.yaml",
+    "datastore"
+  ],
+  "author": "Arunmuthuram M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArunMuthuram/gcpDatastoreIndexYamlGenerator/issues"
+  },
+  "homepage": "https://github.com/ArunMuthuram/gcpDatastoreIndexYamlGenerator#readme"
+}
