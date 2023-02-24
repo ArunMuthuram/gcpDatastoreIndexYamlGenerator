@@ -6,6 +6,6 @@ Generates index.yaml file for GCP datastore
  
 - Clone the repo.
 
-- Run **node index.js gcpProjectID** from repo's root folder.
+- Run **node index.js *YourGCPProjectID*** from repo's root folder.
 
 - The index.yaml will be generated under the /output folder. 
